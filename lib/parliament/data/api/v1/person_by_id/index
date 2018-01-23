@@ -51,11 +51,13 @@
 <https://id.parliament.uk/qJRARqpw> <https://id.parliament.uk/schema/oppositionIncumbencyHasOppositionPosition> <https://id.parliament.uk/XeUZ7frj> .
 <https://id.parliament.uk/XeUZ7frj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionPosition> .
 <https://id.parliament.uk/XeUZ7frj> <https://id.parliament.uk/schema/positionName> "Shadow Minister (Public Health)" .
+
+
 <https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/asks> <https://id.parliament.uk/NLt1spRT> .
 <https://id.parliament.uk/NLt1spRT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
 <https://id.parliament.uk/NLt1spRT> <https://id.parliament.uk/schema/answerExpectedAs> <https://id.parliament.uk/np789080> .
 <https://id.parliament.uk/np789080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnswerExpectedAs> .
-<https://id.parliament.uk/np789080> <https://id.parliament.uk/schema/isOralAnswerExpected> "true" .
+<https://id.parliament.uk/np789080> <https://id.parliament.uk/schema/isOralAnswerExpected> "false" .
 <https://id.parliament.uk/np789080> <https://id.parliament.uk/schema/unstarredAt> "2017-07-27+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://id.parliament.uk/np789080> <https://id.parliament.uk/schema/oralUnreachedAt> "2017-08-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://id.parliament.uk/NLt1spRT> <https://id.parliament.uk/schema/heading> "Prosperity Fund" .
@@ -63,7 +65,7 @@
 <https://id.parliament.uk/NLt1spRT> <https://id.parliament.uk/schema/isWithdrawn> "true" .
 <https://id.parliament.uk/NLt1spRT> <https://id.parliament.uk/schema/dateForAnswer> "2017-12-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://id.parliament.uk/NLt1spRT> <https://id.parliament.uk/schema/isDateForAnswerNamed> "true" .
-<https://id.parliament.uk/NLt1spRT> <https://id.parliament.uk/schema/isQuestionSubstantive> "false" .
+<https://id.parliament.uk/NLt1spRT> <https://id.parliament.uk/schema/isQuestionSubstantive> "true" .
 <https://id.parliament.uk/NLt1spRT> <https://id.parliament.uk/schema/allocation> <https://id.parliament.uk/fp213456> .
 <https://id.parliament.uk/fp213456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AllocatedAnsweringBody> .
 <https://id.parliament.uk/fp213456> <https://id.parliament.uk/schema/allocatedTo> <https://id.parliament.uk/h78g9000> .
@@ -81,11 +83,13 @@
 <https://id.parliament.uk/T1pnfr65> <https://id.parliament.uk/schema/answeringBody> <https://id.parliament.uk/h78g9000> .
 <https://id.parliament.uk/h78g9000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/AnsweringBody> .
 <https://id.parliament.uk/T1pnfr65> <https://id.parliament.uk/schema/isOralAnswer> "false" .
+
+
 <https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/asks> <https://id.parliament.uk/xp125GHF> .
 <https://id.parliament.uk/xp125GHF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
 <https://id.parliament.uk/xp125GHF> <https://id.parliament.uk/schema/answerExpectedAs> <https://id.parliament.uk/ttYp65jh> .
 <https://id.parliament.uk/ttYp65jh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AnswerExpectedAs> .
-<https://id.parliament.uk/ttYp65jh> <https://id.parliament.uk/schema/isOralAnswerExpected> "true" .
+<https://id.parliament.uk/ttYp65jh> <https://id.parliament.uk/schema/isOralAnswerExpected> "false" .
 <https://id.parliament.uk/ttYp65jh> <https://id.parliament.uk/schema/unstarredAt> "2017-07-27+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://id.parliament.uk/ttYp65jh> <https://id.parliament.uk/schema/oralUnreachedAt> "2017-08-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://id.parliament.uk/xp125GHF> <https://id.parliament.uk/schema/heading> "USA: State Visits" .
@@ -93,7 +97,7 @@
 <https://id.parliament.uk/xp125GHF> <https://id.parliament.uk/schema/isWithdrawn> "true" .
 <https://id.parliament.uk/xp125GHF> <https://id.parliament.uk/schema/dateForAnswer> "2017-12-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://id.parliament.uk/xp125GHF> <https://id.parliament.uk/schema/isDateForAnswerNamed> "true" .
-<https://id.parliament.uk/xp125GHF> <https://id.parliament.uk/schema/isQuestionSubstantive> "false" .
+<https://id.parliament.uk/xp125GHF> <https://id.parliament.uk/schema/isQuestionSubstantive> "true" .
 <https://id.parliament.uk/xp125GHF> <https://id.parliament.uk/schema/allocation> <https://id.parliament.uk/ht7856hj> .
 <https://id.parliament.uk/ht7856hj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AllocatedAnsweringBody> .
 <https://id.parliament.uk/ht7856hj> <https://id.parliament.uk/schema/allocatedTo> <https://id.parliament.uk/gg7867hj> .
@@ -111,6 +115,8 @@
 <https://id.parliament.uk/kkl0prjk> <https://id.parliament.uk/schema/answeringBody> <https://id.parliament.uk/gg7867hj> .
 <https://id.parliament.uk/gg7867hj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/AnsweringBody> .
 <https://id.parliament.uk/kkl0prjk> <https://id.parliament.uk/schema/isOralAnswer> "false" .
+
+
 <https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/asks> <https://id.parliament.uk/puf675HG> .
 <https://id.parliament.uk/puf675HG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Question> .
 <https://id.parliament.uk/puf675HG> <https://id.parliament.uk/schema/answerExpectedAs> <https://id.parliament.uk/HG56RH78> .
@@ -122,8 +128,8 @@
 <https://id.parliament.uk/puf675HG> <https://id.parliament.uk/schema/questionText> "What his diplomatic priorities are for Africa after the UK leaves the EU." .
 <https://id.parliament.uk/puf675HG> <https://id.parliament.uk/schema/isWithdrawn> "true" .
 <https://id.parliament.uk/puf675HG> <https://id.parliament.uk/schema/dateForAnswer> "2017-12-12+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
-<https://id.parliament.uk/puf675HG> <https://id.parliament.uk/schema/isDateForAnswerNamed> "true" .
-<https://id.parliament.uk/puf675HG> <https://id.parliament.uk/schema/isQuestionSubstantive> "false" .
+<https://id.parliament.uk/puf675HG> <https://id.parliament.uk/schema/isDateForAnswerNamed> "false" .
+<https://id.parliament.uk/puf675HG> <https://id.parliament.uk/schema/isQuestionSubstantive> "true" .
 <https://id.parliament.uk/puf675HG> <https://id.parliament.uk/schema/allocation> <https://id.parliament.uk/p6HKUUIP> .
 <https://id.parliament.uk/p6HKUUIP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/AllocatedAnsweringBody> .
 <https://id.parliament.uk/p6HKUUIP> <https://id.parliament.uk/schema/allocatedTo> <https://id.parliament.uk/ppyeHKFD> .
@@ -141,6 +147,8 @@
 <https://id.parliament.uk/l56709kJ> <https://id.parliament.uk/schema/answeringBody> <https://id.parliament.uk/ppyeHKFD> .
 <https://id.parliament.uk/ppyeHKFD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/AnsweringBody> .
 <https://id.parliament.uk/l56709kJ> <https://id.parliament.uk/schema/isOralAnswer> "false" .
+
+
 <https://id.parliament.uk/43RHonMf> <https://id.parliament.uk/schema/oppositionPersonHasOppositionIncumbency> <https://id.parliament.uk/ijaory61> .
 <https://id.parliament.uk/ijaory61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/OppositionIncumbency> .
 <https://id.parliament.uk/ijaory61> <https://id.parliament.uk/schema/incumbencyStartDate> "2016-10-06+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
